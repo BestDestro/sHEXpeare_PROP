@@ -16,6 +16,7 @@
 ##### Objetivo
 
 El objetivo es hacer un camino con las fichas de tu color entre lados (del mismo color) opuestos del tablero. El jugador contrario intentara hacer una cadena entre los lados del otro color del tablero. La cadena no tiene que estar en línea recta, siempre que la cadena esté cerrada, es decir, las fichas se encuentran directamente una al lado de la otra. En el juego que se muestra a continuación, el azul ganó.
+
 <img src="media/hex-board-win.png" alt="Hex Board Blue Win" style="zoom:40%;" />
 
 
