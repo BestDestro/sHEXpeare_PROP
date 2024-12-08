@@ -2,7 +2,7 @@
 ## Proyecto final de PROP EPSEVG 2024 - 2025
 #### Creadores:
 - *Eric Millan Lombarte*
-  - *Marc Puertas Riba*
+- *Marc Puertas Riba*
 
 
 
