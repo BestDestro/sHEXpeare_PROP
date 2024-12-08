@@ -1,8 +1,7 @@
 # sHEXpeare_PROP
-## Proyecto final de PROP 
-#### EPSEVG 2024 - 2025
-##### *Eric Millan Lombarte* 
-*Marc Puertas Riba*
+## Proyecto final de PROP EPSEVG 2024 - 2025
+#### *Eric Millan Lombarte* 
+#### *Marc Puertas Riba*
 
 ### Hex Game
 *Hex* es un juego de mesa de *suma 0* con *"perfect information"*
