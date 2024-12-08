@@ -13,6 +13,12 @@
 <img src="media/hex-board-empty.png" alt="Hex Empty Board" style="zoom:40%;" />
 
 
+##### Objetivo
+
+El objetivo es hacer un camino con las fichas de tu color entre lados (del mismo color) opuestos del tablero. El jugador contrario intentara hacer una cadena entre los lados del otro color del tablero. La cadena no tiene que estar en línea recta, siempre que la cadena esté cerrada, es decir, las fichas se encuentran directamente una al lado de la otra. En el juego que se muestra a continuación, el azul ganó.
+<img src="media/hex-board-win.png" alt="Hex Board Blue Win" style="zoom:40%;" />
+
+
 ##### Reglas
 
 > - Inicialmente el tablero está vacío.
@@ -21,9 +27,3 @@
 > - Gana el primer jugador que consigue formar una línea de sus fichas que conecte sus dos laterales. 
 > - No son posibles los empates.
 > - Como el primer jugador tiene ventaja, se jugarán 2 partidas una con cada color de fichas.
-
-
-##### Objetivo
-
-El objetivo es hacer un camino con las fichas de tu color entre lados (del mismo color) opuestos del tablero. El jugador contrario intentara hacer una cadena entre los lados del otro color del tablero. La cadena no tiene que estar en línea recta, siempre que la cadena esté cerrada, es decir, las fichas se encuentran directamente una al lado de la otra. En el juego que se muestra a continuación, el azul ganó.
-<img src="media/hex-board-win.png" alt="Hex Board Blue Win" style="zoom:40%;" />
