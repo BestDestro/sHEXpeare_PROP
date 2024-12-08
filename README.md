@@ -3,7 +3,7 @@
 #### Creadores:
 - *Eric Millan Lombarte*
 - *Marc Puertas Riba*
-
+<br>
 
 
 ### Hex Game
@@ -24,9 +24,9 @@ El objetivo es hacer un camino con las fichas de tu color entre lados (del mismo
 
 ##### Reglas
 
-> - Inicialmente el tablero está vacío.
-> - A cada jugador se le asigna un color de fichas y dos laterales opuestos del tablero que tendrá que intentar conectar con sus fichas siguiendo las reglas del juego.
-> - Los jugadores van colocando fichas por turnos sobre el tablero en casillas desocupadas.
-> - Gana el primer jugador que consigue formar una línea de sus fichas que conecte sus dos laterales. 
-> - No son posibles los empates.
-> - Como el primer jugador tiene ventaja, se jugarán 2 partidas una con cada color de fichas.
+- Inicialmente el tablero está vacío.
+- A cada jugador se le asigna un color de fichas y dos laterales opuestos del tablero que tendrá que intentar conectar con sus fichas siguiendo las reglas del juego.
+- Los jugadores van colocando fichas por turnos sobre el tablero en casillas desocupadas.
+- Gana el primer jugador que consigue formar una línea de sus fichas que conecte sus dos laterales. 
+- No son posibles los empates.
+- Como el primer jugador tiene ventaja, se jugarán 2 partidas una con cada color de fichas.
