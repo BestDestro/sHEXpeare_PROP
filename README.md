@@ -1,6 +1,6 @@
 # sHEXpeare_PROP
 ## Proyecto final de PROP 
-#EPSEVG 2024 - 2025
+##EPSEVG 2024 - 2025
 *Eric Millan Lombarte*
 *Marc Puertas Riba*
 
