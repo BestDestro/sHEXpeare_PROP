@@ -10,7 +10,7 @@
 ##### Tablero
 *Hex* es jugado en un tablero hecho de hexágonos. El mismo tablero tiene forma de rombo, como se muestra en la imagen. Las fichas se sitúan en los hexágonos del tablero. El tablero mostrado aquí tiene 11 fichas a cada lado del rombo, lo cual es un tamaño común para jugadores experimentados, pero el juego puede ser jugado en tableros de cualquier tamaño.
 
-<img src="hex-board-empty.png" alt="Hex Empty Board" style="zoom:40%;" />
+<img src="media/hex-board-empty.png" alt="Hex Empty Board" style="zoom:40%;" />
 
 ##### Reglas
 > - Inicialmente el tablero está vacío.
